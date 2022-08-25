@@ -1,13 +1,1 @@
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
-	<title>New Project</title>
-	<defs>
-		<image  width="1200" height="300" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAEsAQMAAADpc9gTAAAAAXNSR0IB2cksfwAAAANQTFRF+vr/3HgtZgAAAENJREFUeJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEcDsPQAAfqwblsAAAAASUVORK5CYII="/>
-	</defs>
-	<style>
-		tspan { white-space:pre }
-		.shp0 { fill: #151418 } 
-	</style>
-	<use id="Background" href="#img1" x="0" y="0" />
-	<path id="Shape 1" class="shp0" d="M-56 49C-56 49 538 35.84 778 349C1018 662.16 31 349 31 349L-60 224L-56 49Z" />
-	<path id="Shape 2" class="shp0" d="M-153 -97L-153 -97Z" />
-</svg>
+<?xml version="1.0" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#273036" fill-opacity="1" d="M0,224L80,208C160,192,320,160,480,154.7C640,149,800,171,960,181.3C1120,192,1280,192,1360,192L1440,192L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
